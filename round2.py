@@ -32,5 +32,5 @@ for x in range(MAX_LEN - 4):
     temp_pass = temp_pass + random.choice(COMBINED_LIST)
     
 print("\n")
-print("Generated Password is as follows : ")
+print("Generated Password suggestion is as follows : ")
 print(temp_pass)
